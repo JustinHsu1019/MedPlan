@@ -7,4 +7,8 @@
 ### 🖥️ Try the Demo  
 [![Demo](https://img.shields.io/badge/🔗%20Live%20Demo-justforpublicuse.com-blue?style=for-the-badge)](https://justforpublicuse.com)
 
+<img width="1059" alt="image" src="https://github.com/user-attachments/assets/679515d1-4d86-416f-9481-a57cc7d3e909" />
+
+---
+
 🚧 **Code will be released soon. Stay tuned!**
