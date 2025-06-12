@@ -4,4 +4,7 @@
 
 ---
 
+### 🖥️ Try the Demo  
+[![Demo](https://img.shields.io/badge/🔗%20Live%20Demo-justforpublicuse.com-blue?style=for-the-badge)](https://justforpublicuse.com)
+
 🚧 **Code will be released soon. Stay tuned!**
