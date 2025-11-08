@@ -15,7 +15,7 @@
 
 ---
 
-### 📑 Citation
+### Citation
 
 ```bibtex
 @inproceedings{hsu-etal-2025-medplan,
