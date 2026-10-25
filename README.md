@@ -10,6 +10,8 @@
 
 ### Citation
 
+If you find this work useful, please cite:
+
 ```bibtex
 @inproceedings{hsu-etal-2025-medplan,
     title = "{M}ed{P}lan: A Two-Stage {RAG}-Based System for Personalized Medical Plan Generation",
@@ -30,7 +32,7 @@
       Wu, Chenwei",
     editor = "Rehm, Georg  and
       Li, Yunyao",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 6: Industry Track)",
     month = jul,
     year = "2025",
     address = "Vienna, Austria",
